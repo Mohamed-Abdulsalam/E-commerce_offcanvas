@@ -83,6 +83,9 @@ body {
 /*End Offcanvas*/
 /*Start Media query*/
 @media (max-width: 768px) {
+  .offcanvas-box {
+  margin: -15px auto;
+}
   .img-end {
     display: none;
   }
